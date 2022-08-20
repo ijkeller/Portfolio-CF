@@ -1,8 +1,7 @@
-# Modify this portfolio
-
-Make it your own! 
 ## Portfolio
+
 Author: Isaiah Keller
+
 [Portfolio Site](portfolio-isaiah-keller.netlify.app)
 
 
