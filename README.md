@@ -11,39 +11,39 @@ Author: Isaiah Keller
 --------------
 ### Time Estimates
 
-#### Number and name of feature: 
+#### Number and name of feature: Feature 1: Clone and Deploy
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 30 min
 
-Start time: 
+Start time: 3:30
 
-Finish time: 
+Finish time: 4:00
 
-Actual time needed to complete: 
+Actual time needed to complete: 30 min
 
-#### Number and name of feature: 
+#### Number and name of feature: Feature 2: About Me 
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 1 hour
 
-Start time: 
+Start time: 4:00
 
-Finish time: 
+Finish time: 5:00
 
-Actual time needed to complete: 
+Actual time needed to complete: 1 hour
 
-#### Number and name of feature: 
+#### Number and name of feature: Feature 3: Projects
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 45 min
 
-Start time: 
+Start time: 5:30
 
-Finish time: 
+Finish time: 6:30
 
-Actual time needed to complete: 
+Actual time needed to complete: 1 hour, semi complete - removing the language picker broke the site.  I'll need to work with this more.
 
-#### Number and name of feature: 
+#### Number and name of feature: Feature 4: Skills and Experience Sections
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 1 hour
 
 Start time: 
 
